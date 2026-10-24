@@ -1,0 +1,3 @@
+([('tycalculator',
+   '/Users/tybo/Documents/TyCalculator/TyCalculator/dist/tycalculator',
+   'EXECUTABLE')],)
